@@ -1,3 +1,4 @@
+//santos sempre santos
 public class Aumento {
     public static void main(String[] args) {
         double salario = 1000;
