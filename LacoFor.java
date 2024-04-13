@@ -3,8 +3,9 @@ public class LacoFor {
         for (int i = 1; i <= 20; i++) {
             if (i % 4 == 0 || i % 10 == 0) {
                 System.out.println("PIM ");
-            } else 
+            } else {
                 System.out.println(i);
+            }
         }
     }
 }
