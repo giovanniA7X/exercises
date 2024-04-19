@@ -15,6 +15,8 @@ public class Ano_bissexto {
         }      
         else
         System.out.println("ano zero nao existe");
+
+        sc.close();
     }
     
 }

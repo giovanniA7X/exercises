@@ -13,6 +13,8 @@ class Exercicio1 {
 
         double area=a*b;
         System.out.println("A area do retangulo e: "+area);
+
+        sc.close();
     }
 }
 
