@@ -20,6 +20,8 @@ public class Pagamento {
             maiorSalario = salario;
           }  
     }
+    sc.close();
+    
         System.out.println("O maior salario é: " + maiorSalario);
 }
 }
